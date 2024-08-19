@@ -5,7 +5,7 @@
 
 <h1 align="left">Olá, meu nome é Clewerton Roberto.</h1>
 <h6 align="left"> <b> Desenvolvedor Backend </b></h6> 
-<h6 align="left">Linguagens e Ferramentas: <b>Golang</b></h6>
+<h6 align="left">Linguagens e Ferramentas: <b>Golang,</b> <b>Python</b></h6>
 <h6 align="left">Banco de Dados: <b>MySQL</b></h6>
 
 <!-- adicionar depois
